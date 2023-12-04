@@ -1,0 +1,12 @@
+.btnn {
+    background-color: rgb(89, 74, 241);
+    appearance: none;
+    border: none;
+    color: white;
+    padding: 1rem 0.5rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-decoration: none;
+    display: flex;
+    width: fit-content
+}
